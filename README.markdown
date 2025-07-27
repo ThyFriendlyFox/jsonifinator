@@ -1,4 +1,4 @@
-# Prompt-Processing-JSONificator-inator
+# Jsonifinator
 
 ## Overview
 The **Prompt-Processing-JSONificator-inator** is a Python script designed to take any user-provided prompt, enhance it using a Large Language Model (LLM) via an API, and output the result in a structured JSON format. Inspired by the ingenious (and slightly chaotic) spirit of Dr. Heinz Doofenshmirtz, this script is perfect for developers who want to process and organize prompts with a touch of flair.
